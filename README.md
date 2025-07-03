@@ -57,9 +57,7 @@ flutter run
 
 ## 📸 Screenshots
 
-| Input                         | Output                        |
-|------------------------------|-------------------------------|
-| ![](assets/AI_agent_flow.png) | ![](assets/screenshot2.png)   |
+ ![](assets/AI_agent_flow.png) 
 
 
 ---
