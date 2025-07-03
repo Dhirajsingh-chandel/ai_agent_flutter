@@ -57,11 +57,9 @@ flutter run
 
 ## 📸 Screenshots
 
-*(Add your screenshots in assets folder)*
-
-| Input                       | Output                      |
-| --------------------------- | --------------------------- |
-| ![](assets/AI_agent flow.png) | ![](assets/screenshot2.png) |
+| Input                         | Output                        |
+|------------------------------|-------------------------------|
+| ![](assets/AI_agent flow.png) | ![](assets/screenshot2.png)   |
 
 ---
 
