@@ -61,7 +61,7 @@ flutter run
 
 | Input                       | Output                      |
 | --------------------------- | --------------------------- |
-| ![](assets/screenshot1.png) | ![](assets/screenshot2.png) |
+| ![](assets/AI_agent flow.png) | ![](assets/screenshot2.png) |
 
 ---
 
